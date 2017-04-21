@@ -1,0 +1,6 @@
+*.png
+*.gif
+*.jpg
+.ipynb*
+*~
+Resources/
